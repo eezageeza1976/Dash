@@ -1,0 +1,15 @@
+[
+	{	"Blank": 0
+	},
+	{	"Level": 1, 
+		"Astroids": 3,
+		"Stars": 4,
+		"Bg_image": "graphics/space1.bmp"
+	},
+	{
+		"Level": 2,
+		"Astroids": 12,
+		"Stars": 6,
+		"Bg_image": "graphics/space1.bmp"
+	}
+]
